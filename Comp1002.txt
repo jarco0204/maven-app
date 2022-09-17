@@ -1,0 +1,22 @@
+****Comp1002 Class notes****
+This is project: 2002
+18-09-05-16-07
+1.-Logic refers to both the study of methods of reasoning and the use of valid reasoning.
+2.-Reasoning is either valid or fallacious.
+3.-Aristotle established Logic as a formal discipline.
+18-09-05-16-10
+4.-Logic can be studied formally or informally.
+5.-In formal logic there are symbolic variables and the use of mathematics.
+6.-In informal logic natural language is used.
+7.-Logic is divided inductive reasoning, deductive reasoning, and abductive reasoning.
+8.-Deductive reasoning consist on the statements that MUST follow from given premises.
+9.-Inductive is the process of deriving a reliable generalization from observations.
+10.-Abductive is an inference to the best explanation.
+11.-Syllogism is a deductive scheme consisting of a major and a minor premise and  conclusion.
+12.-Deductive reasoning cannot really increase human knowledge.
+13.-Inductive reasoning moves from the specific to the general.
+14.-No amount of inductive evidence guarantees the conclusion.
+15.-Abductive reasoning is characterized by lack of completeness.
+16.-A preposition is either true or false.
+17.-Prepositions are statements that communicate judgment or beliefs.
+18.-Legal sentences are called well-ordered formulas.
